@@ -1,5 +1,5 @@
 # Gitcheck
-// Your First Program with java
+// Your First Program with java the
 
 class HelloWorld {
     public static void main(String[] args) {
